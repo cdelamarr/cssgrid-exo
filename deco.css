@@ -3,11 +3,11 @@ header#titre >h1{
 }
 
 div.col1{
-    background-color red;
+    background-color:red;
 }
 
 div.col2{
-    background-color: orange;
+    background-color: 5px solid orange;
 }
 
 div.col3{
