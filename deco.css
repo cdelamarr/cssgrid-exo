@@ -3,7 +3,7 @@ header#titre >h1{
 }
 
 div.col1{
-    background-color: green;
+    background-color red;
 }
 
 div.col2{
@@ -19,7 +19,7 @@ div.ligne1{
 }
 
 div.ligne2{
-    border: 5px solid orange;
+    border: 5px solid pink;
 }
 
 div.ligne3{
